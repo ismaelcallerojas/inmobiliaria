@@ -1,0 +1,14 @@
+body{
+/*    background: rgb(236,116,10);
+    background: linear-gradient(90deg, rgba(236,116,10,1) 0%, rgba(238,202,15,1) 49%, rgba(236,116,10,1) 100%);
+
+*/ 
+/*   */
+background: #EFEFBB;
+background: -webkit-linear-gradient(to right, #D4D3DD, #EFEFBB);  
+background: linear-gradient(to right, #D4D3DD, #EFEFBB); 
+
+
+ 
+
+}
