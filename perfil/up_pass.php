@@ -17,5 +17,4 @@ $con->close();
 }else {
     header('location:../extend/alerta.php?msj=Mensaje&c=pe&p=perfil&t=error');
 }
-
 ?>
